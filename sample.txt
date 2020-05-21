@@ -1,2 +1,1 @@
-My Configuration Setting @_BranchName_@
-Added new Hooks
+My Configuration Setting master
