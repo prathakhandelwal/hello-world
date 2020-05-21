@@ -1,1 +1,2 @@
 My Configuration Setting master
+Added new Hooks
