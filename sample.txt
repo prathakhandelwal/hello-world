@@ -1,1 +1,1 @@
-My Application Setting @_BranchName_@
+My Application Setting @_BranchName1_@
